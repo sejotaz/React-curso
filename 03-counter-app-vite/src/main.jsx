@@ -9,6 +9,6 @@ import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <FirstApp title="El que lo lea es LGTBIQ+" subtitle={123}/>
+    <FirstApp title='Alejandro Ospina' subtitle={123}/>
   </React.StrictMode>
 )
